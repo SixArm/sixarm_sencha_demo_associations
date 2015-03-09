@@ -1,4 +1,4 @@
-# SixArm.com » Sencha » Demo » Associations
+# Sencha » Demo » Associations
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2011 Joel Parker Henderson
